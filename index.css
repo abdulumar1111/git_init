@@ -8,3 +8,19 @@ h1 {
     color: crimson;
     font-weight: 600;
 }
+
+h2 {
+    color: aquamarine;
+    font-weight: bold;
+}
+
+h3 {
+    color: blueviolet;
+    font-weight: 500;
+}
+
+p {
+    color: chocolate;
+    font-size: 12px;
+    font-weight: 400;
+}
